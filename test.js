@@ -1,2 +1,2 @@
-const name = 'test finished'
+const name = 'test finished';
 console.log(name);
